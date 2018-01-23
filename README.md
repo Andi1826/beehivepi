@@ -3,7 +3,7 @@
 ##### Build
 
 To build you need to install sqlite3:  
-_sudo apt-get install sqlite3  
+_sudo apt-get install sqlite3_  
 and install sqlite3 headers:  
 _sudo apt-get install libsqlite3-dev_
 
